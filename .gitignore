@@ -4,4 +4,6 @@ __pycache__/
 .venv/
 venv/
 .env
-.ipynb_checkpoints/
+.ipynb_checkpoints/Artifacts/*.keras
+Artifacts/*.pkl
+Artifacts/*.h5
