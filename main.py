@@ -24,7 +24,7 @@ D. Emotion Labels
 E. Emotion emojis
 """
 #A. Model Path (BiGRU)
-model_path = "Artifacts/BiGRU_Model.keras"
+model_path = "Artifacts/BiGRU_model.keras"
 
 #B. Tokenizer Path
 tokenizer_path = "Artifacts/tokenizer.pkl"
