@@ -2,8 +2,5 @@
 __pycache__/
 *.pyc
 .venv/
-venv/
 .env
-.ipynb_checkpoints/Artifacts/*.keras
-Artifacts/*.pkl
-Artifacts/*.h5
+.ipynb_checkpoints/
